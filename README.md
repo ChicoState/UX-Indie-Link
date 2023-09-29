@@ -11,8 +11,8 @@
  
 !!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 
-* [Personas and Scenarios](personas/x06 Personas and Scenarios.pdf)
-* [Sketches and Diagrams](sketches/2023_09_26 3_37 PM Office Lens (1).pdf)
+* [Personas and Scenarios](https://github.com/ChicoState/UX-Indie-Link/blob/bc2601c3a184bf07fbaabf01a3aebd9532d7edc0/personas/x06%20Personas%20and%20Scenarios.pdf)
+* [Sketches and Diagrams](https://github.com/ChicoState/UX-Indie-Link/blob/4e03468bd670408f20f2125b4612055c6fa9e23d/sketches/2023_09_26%203_37%20PM%20Office%20Lens%20(1).pdf)
 * [Wireframes](wireframes/)
 * [Prototype](#)
 

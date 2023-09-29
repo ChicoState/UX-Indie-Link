@@ -11,8 +11,8 @@
  
 !!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 
-* [Personas and Scenarios](personas/)
-* [Sketches and Diagrams](sketches/)
+* [Personas and Scenarios](personas/x06 Personas and Scenarios.pdf)
+* [Sketches and Diagrams](sketches/2023_09_26 3_37 PM Office Lens (1).pdf)
 * [Wireframes](wireframes/)
 * [Prototype](#)
 

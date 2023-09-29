@@ -6,7 +6,11 @@ In today's online gaming landscape, Indie games are a huge growing industry. How
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
+One of the first research methods we performed was a competitive analysis. We brainstormed a list of competitors including Steam, Roblox, itch.io, and Reddit. For each, we compared our personal goals with how well each competitor allowed the user to achieve these goals. The main goals we considered were the breadth of game discovery allowed on the site and the ability for developers to interact with players. 
+
+Another research method we performed was through the use of personas and scenarios. We created two personas based on our main two goals of game discovery and user-developer interaction. We then created two scenarios, one for each of them. For each scenario, we considered what features we could create to aid them the most efficiently in their goals of using our site.
+
+The last research method used was a heuristic evaluation. Using Neilsen's 10 Usability Heuristics, each of us evaluated a competitor, itch.io, and gave it a 1-10 scale score for each heuristic. Using this evaluation of what our competitor did well and poorly in terms of usability, we considered how we could design our site to be more user-friendly than our competitor. 
 
 ## Findings
 

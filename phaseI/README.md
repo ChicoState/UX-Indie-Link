@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve !!!
+In today's online gaming landscape, Indie games are a huge growing industry. However, there are so many amazing indie games that it can be hard to keep track of them all, and many good ones fly entirely under the radar. This is because information about these games is scattered around various websites, there is no centralized place to learn about and talk about indie projects. Indie-Link is a place where developers and users can upload information about indie games. This could be a great way not only for developers to gain new players but also for players to meet fellow fans of the game and discuss it. The app would organize games by genre and platform so users could search for new games that fit their needs and interests. 
 
 ## Methods
 

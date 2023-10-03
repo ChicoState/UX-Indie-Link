@@ -4,8 +4,12 @@
 
 ## UX Team Members
 
-* **[Sarah Youngdahl](https://github.com/UsabilityEngineering/ux-portfolio-tinkerdog10.git)** - !!!List of Person A's primary contributions!!!
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
+- **[Sarah Youngdahl](https://github.com/UsabilityEngineering/ux-portfolio-tinkerdog10.git)** - !!!List of Person A's primary contributions!!!
+- **[Thomas Devine](https://github.com/UsabilityEngineering/ux-portfolio-thomasdevine01)**
+   -  Created outline for the basic design of Indie Link.
+   -  Colaborated on refining design to meet needs of end users.
+   -  Colaborated with the software engineering team to deliver product on time. 
+  
 
 # User-Centered Design Artifacts
  
@@ -20,10 +24,11 @@
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+- Indie Link, A website designed to allow users to discover and discuss gaming and game related content.
+- Conducted market research on competitors.
+- Refined design in collaboration with software engineering team.
+- Created basic sketches in order to communicate ideas and formatting to the software engineering team.
+   - Refined sketches into wireframes.
 
 [Full phase I report](phaseI/)
 

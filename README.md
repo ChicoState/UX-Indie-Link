@@ -1,14 +1,17 @@
 # Indie-Link
 
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+Indie-Link is a website intended to allow players to discover new Indie Games, and developers to connect with players to build a community around their games. 
 
 ## UX Team Members
 
-- **[Sarah Youngdahl](https://github.com/UsabilityEngineering/ux-portfolio-tinkerdog10.git)** - !!!List of Person A's primary contributions!!!
+- **[Sarah Youngdahl](https://github.com/UsabilityEngineering/ux-portfolio-tinkerdog10.git)**
+   - Created sketches for Indie Link
+   - Collaborated on heuristic evaluation and competitive analysis
+   - Created persona and scenario for usability evaluations
 - **[Thomas Devine](https://github.com/UsabilityEngineering/ux-portfolio-thomasdevine01)**
    -  Created outline for the basic design of Indie Link.
-   -  Colaborated on refining design to meet needs of end users.
-   -  Colaborated with the software engineering team to deliver product on time. 
+   -  Collaborated on refining design to meet the needs of end users.
+   -  Collaborated with the software engineering team to deliver products on time. 
   
 
 # User-Centered Design Artifacts
@@ -24,9 +27,9 @@
 
 **Executive Summary**
 
-- Indie Link, A website designed to allow users to discover and discuss gaming and game related content.
+- Indie Link, A website designed to allow users to discover and discuss gaming and game-related content.
 - Conducted market research on competitors.
-- Refined design in collaboration with software engineering team.
+- Refined design in collaboration with the software engineering team.
 - Created basic sketches in order to communicate ideas and formatting to the software engineering team.
    - Refined sketches into wireframes.
 

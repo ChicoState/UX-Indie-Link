@@ -18,7 +18,7 @@ Indie-Link is a website intended to allow players to discover new Indie Games, a
  
 * [Personas and Scenarios](https://github.com/ChicoState/UX-Indie-Link/blob/bc2601c3a184bf07fbaabf01a3aebd9532d7edc0/personas/x06%20Personas%20and%20Scenarios.pdf)
 * [Sketches and Diagrams](https://github.com/ChicoState/UX-Indie-Link/blob/4e03468bd670408f20f2125b4612055c6fa9e23d/sketches/2023_09_26%203_37%20PM%20Office%20Lens%20(1).pdf)
-* [Wireframes](https://github.com/ChicoState/UX-Indie-Link/blob/main/wireframes/Wireframe.pdf))
+* [Wireframes](https://github.com/ChicoState/UX-Indie-Link/blob/main/wireframes/Wireframe.pdf)
 * [Prototype](#)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs

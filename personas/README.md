@@ -24,7 +24,7 @@ enjoys keeping up with the latest indie game news when he can.
 - Wants a way to quickly find new indie games
 - Wants to find news about his favorite indie game projects
 
-![personas/images/bill.png](https://github.com/ChicoState/UX-Indie-Link/blob/4aec74831c66a26099d70e3ad4aab5a086fd6626/personas/images/bill.png))
+<img src="images/bill.png" alt="bill">
 
 ### Persona 2: Olivia
 - 20 year old female in Sacramento California
@@ -46,7 +46,7 @@ people.
 - Build connections with her gaming community
 - Connect with other indie game studio developers
 
-![personas/images/olivia.png](https://github.com/ChicoState/UX-Indie-Link/blob/4aec74831c66a26099d70e3ad4aab5a086fd6626/personas/images/olivia.png)
+<img src="images/olivia.png" alt="olivia">
 # Scenarios
 
 ### Scenario 1: Bill

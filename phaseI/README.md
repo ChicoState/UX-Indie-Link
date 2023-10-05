@@ -22,8 +22,8 @@ Lastly, our evaluation of a competitor, itch.io, revealed several strengths and 
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+In conclusion, we found our product to fill a niche in the current gaming landscape. Through our heuristic analysis we found that our competitors had benefits to using them, but many of them did not fill the niche that we occupied. Indie Link is a valuable product because it allows for developer-player interaction and discovery of new products. Through our user stories and personas we found it useful to allow for games to be front and center, and allow the user to access interaction as soon as possible. We want to make the aspect of game discovery the most important feature. 
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+Our user stories show a limited perspective. One of the downsides of user stories is that we can only imagine what a potential user might feel or think about our product. Taking this in to account is important in the future and conducting research of what people like about the site and what they dislike about the site would be much more effective than a user story. We also discussed how to improve our design over time with user interaction studies.

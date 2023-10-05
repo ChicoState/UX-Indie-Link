@@ -35,7 +35,9 @@ Indie-Link is a website intended to allow players to discover new Indie Games, a
 
 # Phase II: Refining interaction and designing wireframes
 
-**Executive Summary**
+Coming Soon!
+
+<!-- **Executive Summary**
 
 * !!!In a bullet-list, provide a summary that highlights...!!!
 * !!!What you've done during this phase...!!!
@@ -44,13 +46,17 @@ Indie-Link is a website intended to allow players to discover new Indie Games, a
 
 [Full phase II report](phaseII/)
 
+-->
+
 # Phase III: Prototypes and User Testing
 
-**Executive Summary**
+Coming Soon!
+
+<!-- **Executive Summary**
 
 * !!!In a bullet-list, provide a summary that highlights...!!!
 * !!!What you've done during this phase...!!!
 * !!!and what the significance of it is...!!!
 * !!!as an executive would understand.!!!
 
-[Full phase III report](phaseIII/)
+[Full phase III report](phaseIII/) -->

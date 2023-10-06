@@ -1,5 +1,5 @@
 # Wireframes
 
-<img src="wireframe1.png" alt="wireframe1">
-<img src="wireframe2.png" alt="wireframe2">
-<img src="wireframe3.png" alt="wireframe3">
+<img src="images/wireframe1.png" alt="wireframe1">
+<img src="images/wireframe2.png" alt="wireframe2">
+<img src="images/wireframe3.png" alt="wireframe3">

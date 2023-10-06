@@ -19,7 +19,7 @@ enjoys playing video games. He enjoys shorter games with simple
 mechanics and therefore tends to prefer indie games. He also
 enjoys keeping up with the latest indie game news when he can.
   
-### Goals:
+#### Goals:
 - He wants to use his limited free time to play games.
 - Wants a way to quickly find new indie games
 - Wants to find news about his favorite indie game projects
@@ -30,8 +30,9 @@ enjoys keeping up with the latest indie game news when he can.
 - 20 year old female in Sacramento California
 - Independent Game Developer
 - Bachelors in Game Development
-    
-- Olivia moved to the city to find work as a game developer. In
+- Personality/Details:
+  
+    - Olivia moved to the city to find work as a game developer. In
 her spare time she enjoys watching films, video games, and
 engaging with fan culture. She has a few close friends that
 she likes to spend time with on weekends.

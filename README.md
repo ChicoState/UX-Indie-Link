@@ -36,9 +36,7 @@ Indie-Link is a website intended to allow players to discover new Indie Games, a
 
 # Phase II: Refining interaction and designing wireframes
 
-Coming Soon!
-
-<!-- **Executive Summary**
+ **Executive Summary**
 
 - Indie Link, is a website designed to allow indie game players to discover new games and developers to connect with fans. 
 - The UX team conducted a cognitive walkthrough of the wireframes created for a site. Through this method, participants attempted to achieve the goal of one of the two scenarios created in 
@@ -49,8 +47,6 @@ Coming Soon!
   discovery pushed the team to develop the site to a more functional form.  
 
 [Full phase II report](phaseII/)
-
--->
 
 # Phase III: Prototypes and User Testing
 

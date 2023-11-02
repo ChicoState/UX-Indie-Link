@@ -2,20 +2,28 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+Indie Link aims to provide a way for indie game players to find new games and game developers to make connections with fans. This stage of development focused on creating the wireframe for the site and then performing a cognitive walkthrough study of the wireframes to test their effectiveness. 
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
+For this stage of development, the UX team performed a cognitive walkthrough on the wireframes we have been developing. First, they had two participants each choose one of our scenarios as the basis for their walkthrough. Each participant read over their scenario and then looked at our wireframes to try to figure out if they could effectively achieve the goals of the scenario based on the wireframes. Participants then recorded their step-by-step process of going through the wireframes. 
+
+The SE team performed a round of informal feedback on their current build of the site. For this process, they first got a list of questions from the UX team to ask in their feedback session. Then they presented their current build of the site to their peers in class. Afterward, they asked the questions provided by the UX team and recorded the feedback provided. 
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+In the results from the cognitive walkthroughs, the UX team found that the social element of our site had been left off of the wireframes. They also found that the tagging system needed to be fleshed out further and fully implemented into the wireframe as the process of adding tags was not clear. The walkthrough also revealed the importance of icons, as the lack of those images on the wireframes made them difficult to traverse. Finally, we discovered a possible issue with the flow of user interaction with the site when it comes to discovering new games. In its current state, the site does not allow for game downloads by design, as it is meant to act as more of an archive than a storefront. However, this design also neglects to allow the viewer to find the storefront where the game is located, leading to a gap in the user's experience with the site. 
+
+The SE team found through their informal feedback that the current build still needed to develop account creation, a search function, a fully developed landing page that lists games posted by developers, and user-to-developer communication.
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+The results of the cognitive walkthrough showed a need for greater attention to detail in our wireframes, and a need to work out an effective way to implement the social aspect of the site, something we had been neglecting until now. It also showed that effective icons for the various site functions are imperative to users being able to know where to click to achieve their goals. To have the wireframes better communicate these icons' presence, placeholder icons needed to be added to the wireframes. In the future, we may also need to consider implementing a way for developers to link to the storefronts their game is available on. This would allow a more seamless user experience.
+
+The SE's informal feedback process showed that the site still needs quite a bit of development before it can be considered functional, as it currently is not capable of many of the site's intended functions. 
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+There are a few limitations to the cognitive walkthrough as we only ran the study using two people. As such we do not have a very large sample size of data to work from. There may be several issues that went unnoticed. We also only used two user stories for the walkthrough, meaning there may be some functions of the site that were not covered by their walkthrough. It should also be noted that the wireframes were unfinished, meaning some issues found in the walkthrough may have been caused by the wireframes themselves and not the design. In addition, the use of wireframes rather than the actual site neglects certain contextual clues that would be present on the actual site, such as knowing which wireframe a button leads to.  
+
+On the SE side of things, the site was largely unfinished, which caused many of the issues found to be rooted in the site's stage of development rather than the design itself. Informal review is also done with a small sample size of peers, which means the people reviewing the site come from a common demographic. This common viewpoint can lead to blind spots in the review that can leave some issues undiscovered. 

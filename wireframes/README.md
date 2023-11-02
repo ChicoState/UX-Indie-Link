@@ -2,7 +2,7 @@
 
 <img src="images/Create A Game Page.png" alt="Create A Game Page">
 <img src="images/Developer Post Creation Page.png" alt="Developer Post Creation Page">
-<img src="images/Developer Post Page(If Owner).png" alt="Developer Post Page(If Owner)">
+<img src="images/Developer Post Page (If Owner).png" alt="Developer Post Page(If Owner)">
 <img src="images/Developer Post Page (If Viewer).png" alt="Developer Post Page (If Viewer)">
 <img src="images/Game Page (If Owner).png" alt="Game Page (If Owner)">
 <img src="images/Game Page (If Viewer, and page not favorited).png" alt="Game Page (If Viewer, and page not favorited)">

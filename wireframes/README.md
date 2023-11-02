@@ -8,7 +8,7 @@
 <img src="images/Game Page (If Viewer, and page not favorited).png" alt="Game Page (If Viewer, and page not favorited)">
 <img src="images/Game Page (If Viewer, and favorited).png" alt="Game Page (If Viewer, and favorited)">
 <img src="images/Homepage (Logged In).png" alt="Homepage (Logged In)">
-<img src="images/Homepage (Not Logged in).png" alt="Homepage (Not Logged in)">
+<img src="images/Homepage (Not  Logged in).png" alt="Homepage (Not Logged in)">
 <img src="images/More or Search.png" alt="More or Search">
 <img src="images/Photo Gallery View.png" alt="Photo Gallery View">
 <img src="images/Sign Up Page.png" alt="Sign Up Page">

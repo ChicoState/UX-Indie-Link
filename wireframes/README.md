@@ -1,7 +1,7 @@
 # Wireframes
 
-<img src="images/wireframe1.png" alt="wireframe1">
-<img src="images/wireframe2.png" alt="wireframe2">
+<img src="images/Create A Game Page.png" alt="wireframe1">
+<img src="images/Developer Post Creation Page.png" alt="wireframe2">
 <img src="images/wireframe3.png" alt="wireframe3">
 <img src="images/CreateAGamePage.png" alt="Creating a Game Page">
 <img src="images/DevPageIfOwner.png" alt="Developer Page If Owner">

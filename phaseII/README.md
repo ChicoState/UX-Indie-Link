@@ -12,6 +12,7 @@ The SE team performed a round of informal feedback on their current build of the
 1. Does the current structure allow for discoverability?
 2. Are there any preferred features missing from the landing page?
 3. Is the landing page too busy?
+
 The team then presented their current build of the site to their peers in class. Afterward, they asked the questions provided by the UX team and recorded the feedback provided. 
 
 ## Findings

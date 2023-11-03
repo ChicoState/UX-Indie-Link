@@ -17,7 +17,10 @@ The team then presented their current build of the site to their peers in class.
 
 ## Findings
 
-In the results from the cognitive walkthroughs, the UX team found that the social element of our site had been left off of the wireframes. They also found that the tagging system needed to be fleshed out further and fully implemented into the wireframe as the process of adding tags was not clear. The walkthrough also revealed the importance of icons, as the lack of those images on the wireframes made them difficult to traverse. Finally, we discovered a possible issue with the flow of user interaction with the site when it comes to discovering new games. In its current state, the site does not allow for game downloads by design, as it is meant to act as more of an archive than a storefront. However, this design also neglects to allow the viewer to find the storefront where the game is located, leading to a gap in the user's experience with the site. 
+In the results from the cognitive walkthroughs, the UX team found that the social element of our site had been left off of the wireframes. They also found that the tagging system needed to be fleshed out further and fully implemented into the wireframe as the process of adding tags was not clear. The walkthrough also revealed the importance of icons, as the lack of those images on the wireframes made them difficult to traverse. Finally, we discovered a possible issue with the flow of user interaction with the site when it comes to discovering new games. In its current state, the site does not allow for game downloads by design, as it is meant to act as more of an archive than a storefront. However, this design also neglects to allow the viewer to find the storefront where the game is located, leading to a gap in the user's experience with the site.
+
+
+
 
 The SE team found through their informal feedback that the current build still needed to develop account creation, a search function, a fully developed landing page that lists games posted by developers, and user-to-developer communication.
 
@@ -25,7 +28,10 @@ The SE team found through their informal feedback that the current build still n
 
 The results of the cognitive walkthrough showed a need for greater attention to detail in our wireframes, and a need to work out an effective way to implement the social aspect of the site, something we had been neglecting until now. It also showed that effective icons for the various site functions are imperative to users being able to know where to click to achieve their goals. To have the wireframes better communicate these icons' presence, placeholder icons needed to be added to the wireframes. In the future, we may also need to consider implementing a way for developers to link to the storefronts their game is available on. This would allow a more seamless user experience.
 
+
 The SE's informal feedback process showed that the site still needs quite a bit of development before it can be considered functional, as it currently is not capable of many of the site's intended functions. 
+
+As we progress into the final phase of development it is important to keep in mind the needs of the user's and the goal of the site. Cognitive walkthroughs can only provide as much information as 
 
 ## Caveats
 

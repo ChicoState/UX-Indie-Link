@@ -6,7 +6,7 @@ Indie Link aims to provide a way for indie game players to find new games and ga
 
 ## Methods
 
-For this stage of development, the UX team performed a cognitive walkthrough on the wireframes we have been developing. First, they had two participants each choose one of our scenarios as the basis for their walkthrough. Each participant read over their scenario and then looked at our wireframes to try to figure out if they could effectively achieve the goals of the scenario based on the wireframes. Participants then recorded their step-by-step process of going through the wireframes. 
+The UX Team employed two methods of research, Peer cognative walkthroughs and 
 
 The SE team performed a round of informal feedback on their current build of the site. For this process, they first got the following list of questions from the UX team to ask in their feedback session: 
 1. Does the current structure allow for discoverability?

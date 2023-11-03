@@ -8,7 +8,7 @@ Indie-Link is a website intended to allow players to discover new Indie Games, a
    - Created sketches for Indie Link
    - Collaborated on heuristic evaluation and competitive analysis
    - Created persona and scenario for usability evaluations
-   - Collaborated to create wireframes for site. 
+   - Collaborated to create wireframes for the site. 
 - **[Thomas Devine](https://github.com/UsabilityEngineering/ux-portfolio-thomasdevine01)**
    -  Created outline for the basic design of Indie Link.
    -  Collaborated on refining design to meet the needs of end users.
@@ -39,12 +39,16 @@ Indie-Link is a website intended to allow players to discover new Indie Games, a
  **Executive Summary**
 
 - Indie Link, is a website designed to allow indie game players to discover new games and developers to connect with fans. 
-- The UX team conducted a cognitive walkthrough of the wireframes created for a site. Through this method, participants attempted to achieve the goal of one of the two scenarios created in 
-  Phase I for Indie Link. This process effectively acted as a test of an early prototype and provided the team with insight into issues with the wireframes and design. It was found that the 
-  wireframes were lacking core features and needed certain revisions to make the content of the wireframes clearer.
-- The SE team performed a informal feedback session where they presented their sight and asked questions to find out if the site is working effectively to meet user needs. The feedback 
-  found that the site still needed more work to implement the core functions of the design such as account creation, search functionality, a landing page, and commenting functionality. This 
-  discovery pushed the team to develop the site to a more functional form.  
+- The UX team conducted a cognitive walkthrough of the wireframes created for a site.
+     - Participants attempted to achieve the goal of one of the two scenarios created in Phase I.
+     - This process effectively acted as a test of an early prototype.
+     - The Process provided the team with insight into issues with the wireframes and design.
+        - It was found that the wireframes were lacking core features like commenting.
+        - It made clear that certain revisions such as the additions of placeholders for icons were needed to make the content of the wireframes clearer.
+- The SE team performed an informal feedback session
+   - The team presented the site and asked questions to find out if the site was working effectively to meet user needs.
+   - The feedback found that the site still needed more work to implement the core functions of the design such as account creation, search functionality, a landing page, and commenting functionality.
+   - This discovery pushed the team to develop the site to a more functional form.  
 
 [Full phase II report](phaseII/)
 

@@ -33,7 +33,9 @@ The results of the cognitive walkthrough showed a need for greater attention to 
 
 The SE's informal feedback process showed that the site still needs quite a bit of development before it can be considered functional, as it currently is not capable of many of the site's intended functions. 
 
-As we progress into the final phase of development it is important to keep in mind the needs of the users and the goal of the site. Cognitive walkthroughs can only provide as much information as the UX team puts into them. More thorough and diverse personas and scenerios can provide much needed feedback and data on how to improve the design.
+As we progress into the final phase of development it is important to keep in mind the needs of the users and the goal of the site. Cognitive walkthroughs can only provide as much information as the UX team puts into them. More thorough and diverse personas and scenerios can provide much needed feedback and data on how to improve the current design. 
+
+This phase provided us great feedback, a better understanding of our users, and what the UX team need to focus on when moving on to the final phase of the project. The UX team have gained important insight on what needs to be focused on when developing prototypes and the final revisions.
 
 ## Caveats
 

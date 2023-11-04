@@ -1,8 +1,7 @@
 # Wireframes
 
 ### Peer Cognitive Walkthoughs
-1. [Bill's Scenario](Walkthroughs/BillScenario.md)
-2. [Olivia's Scenario](Walkthroughs/OliviaScenerio.md)
+1. [Walkthroughs](Walkthroughs/BillScenario.md)
 
 ### Gallery of Wireframes
 

@@ -6,7 +6,7 @@ Indie Link aims to provide a way for indie game players to find new games and ga
 
 ## Methods
 
-The UX Team employed [peer cognitive walkthroughs](/wireframes/Cognitive%20Walkthroughs/) to accomplish diversity in findings.
+The UX Team employed [peer cognitive walkthroughs](/wireframes/Walkthroughs/) to accomplish diversity in findings.
 
 Peer cognitive walkthroughs are much more effective because the UX team created the scenarios, personas, and wireframes. The UX team has a deep understanding of what Indie Link is and what the intended goal of the site is, whereas a user will not have familiarity with the site.
 
@@ -19,7 +19,7 @@ The team then presented their current build of the site to their peers in class.
 
 ## Findings
 
-Our peer cognitive walkthroughs and wireframes can be found [here](/wireframes/Cognitive%20Walkthroughs/)
+Our peer cognitive walkthroughs and wireframes can be found [here](/wireframes/Walkthroughs/)
 
 In the results from the cognitive walkthroughs, the UX team found that the social element of our site was missing from the wireframes. They also found that the tag system needed to be fleshed out further. The process of adding tags was not implemented. The walkthrough also revealed the importance of icons, as the lack of those images on the wireframes made them difficult to traverse. Finally, we discovered a possible issue with the flow of user interaction with the site when discovering new games. In the site's current state, Indie Link does not support game downloads, as it is intended to be closer to an archive than a storefront. However, this design also neglects to allow the viewer to find the storefront where the game is located, leading to a gap in the user's experience with the site. This creates another problem if a user finds a game that they want to download, they must leave the site to download the game. This can prove to be an issue with user retention because we are encouraging users to leave the site.
 

@@ -1,7 +1,7 @@
 # Wireframes
 
 ### Peer Cognitive Walkthoughs
-1. [Walkthroughs](Cognitive%20Walkthroughs/)
+1. [Walkthroughs](Walkthroughs/)
 
 ### Gallery of Wireframes
 

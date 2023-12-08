@@ -7,7 +7,7 @@ Indie Link aims to provide a way for indie game players to find new games and ga
 ## Methods
 The prototype of the site was developed using the previously developed wireframes as a template. Color and images were added to increase the fidelity of the prototype. The higher fidelity we could make the prototype the more accurate the data would be from our user test, and the more likely we would be to find problems with the design. 
 
-We developed a [protocol](/Phase_III:_Usability_Evaluation/_x17_Protocol.pdf/) to follow in our test. The protocol consisted of a list of questions and tasks for the participant to complete to determine the current usability of various functions of the site. 
+We developed a [protocol](/Phase_III:_Usability_Evaluation/_x17_Protocol.pdf) to follow in our test. The protocol consisted of a list of questions and tasks for the participant to complete to determine the current usability of various functions of the site. 
 
 
 ## Findings

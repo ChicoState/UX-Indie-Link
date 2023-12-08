@@ -21,7 +21,7 @@ Indie-Link is a website intended to allow players to discover new Indie Games, a
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
 * [Peer Cognitive Walkthroughs](wireframes/Walkthroughs/)
-* [Prototype](#)
+* [Prototype](https://xd.adobe.com/view/fb2520e7-e54e-499f-9cab-4aa8fe1b76d1-ae76/?fullscreen)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 

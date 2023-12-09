@@ -21,7 +21,18 @@ The protocol finishes with a debrief. This debrief aims to gain any additional d
 
 ## Findings
 
-Using our protocol we ran a [study](/phaseIII/Phase_III:_Usability_Evaluation/IndieLink_UsabilityStudy.pdf) using participants (n = 6). 
+Using our protocol we ran a [study](/phaseIII/Phase_III:_Usability_Evaluation/IndieLink_UsabilityStudy.pdf) using participants from class(n = 6). After congregating the data into a spreadsheet we were able to make quite a few discoveries about Indie games as well as the prototype's usability.
+
+Using our questions in the introduction we found that the most common tactics for finding Indie games were YouTube, word of mouth, and Steam. We also found that participants tended either not to care much about how they found games to play, or to feel that their tactics were not very effective due to how narrow the results were. 
+
+Our first task showed that the search function was largely functional. All participants were able to find the search bar and all but one were able to utilize tagging. On the other hand, the Genre search's results were split with half of the participants locating and using the function and half not. One participant ended up using the provided "Favorites" category to find a game, and another noted that they wished there was a "Recommended" section. 
+
+The second task showed a few problems with the commenting function. While most of the participants were able to locate commenting, the majority of them struggled to do so. One participant noted their problems seemed to stem from a lack of obvious intractability with the "Posts" section. 
+
+The third task showed no problems with the Game Page Creation function. All participants were able to complete the task in full with no issues. 
+
+The debrief provided extra data on participant's experiences. Results varied on what participants enjoyed but tended to show appreciation for the home page layout and community aspects of the site. Problems found with the site were a little more consistent. Participants tended to have difficulty 
+
 ## Conclusions
 
 !!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!

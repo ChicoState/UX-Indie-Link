@@ -31,7 +31,7 @@ The second task showed a few problems with the commenting function. While most o
 
 The third task showed no problems with the Game Page Creation function. All participants were able to complete the task in full with no issues. 
 
-The debrief provided extra data on participant's experiences. Results varied on what participants enjoyed but tended to show appreciation for the home page layout and community aspects of the site. Problems found with the site were a little more consistent. Participants tended to have difficulty 
+The debrief provided extra data on participant's experiences. Results varied on what participants enjoyed but tended to show appreciation for the home page layout and community aspects of the site. Problems found with the site were a little more consistent. Participants tended to have difficulty finding the "Posts" function. There were also a few problems noted with the prototype itself, the most common and problematic one being that the back button often didn't work. We were given a few more suggestions for the site, most relating to problems with the prototype. One participant did mention that they wished that the site had links to storefronts where they could purchase and download the game.  
 
 ## Conclusions
 

@@ -6,6 +6,7 @@ Indie Link aims to provide a way for indie game players to find new games and ga
 
 ## Methods
 
+For this stage of development, the UX team performed a [cognitive walkthrough](/wireframes/) on the wireframes we have been developing. First, they had two participants each choose one of our scenarios as the basis for their walkthrough. Each participant read over their scenario and then looked at our wireframes to try to figure out if they could effectively achieve the goals of the scenario based on the wireframes. Participants then recorded their step-by-step process of going through the wireframes. 
 
 
 The UX Team employed [peer cognitive walkthroughs](../wireframes/Walkthroughs/) to accomplish diversity in findings.
@@ -23,7 +24,9 @@ The team then presented their current build of the site to their peers in class.
 
 Our peer cognitive walkthroughs and wireframes can be found [here](../wireframes/Walkthroughs/)
 
-In the results from the cognitive walkthroughs, the UX team found that the social element of our site was missing from the wireframes. They also found that the tag system needed to be fleshed out further. The process of adding tags was not implemented. The walkthrough also revealed the importance of icons, as the lack of those images on the wireframes made them difficult to traverse. Finally, we discovered a possible issue with the flow of user interaction with the site when discovering new games. In the site's current state, Indie Link does not support game downloads, as it is intended to be closer to an archive than a storefront. However, this design also neglects to allow the viewer to find the storefront where the game is located, leading to a gap in the user's experience with the site. This creates another problem if a user finds a game that they want to download, they must leave the site to download the game. This can prove to be an issue with user retention because we are encouraging users to leave the site.
+Our peers questioned how tags would be generated and suggested adding user generated tags. This seems like and interesting idea and could solve a lot of the issues we currently have with the tagging system. It was also discovered how the search feature needs to be fleshed out more, the current design does not provide user feedback on what they can search.
+
+The SE team found through their informal feedback that the current build still needed to develop account creation, a search function, a fully developed landing page that lists games posted by developers, and user-to-developer communication.
 
 Indie Link's current design has a problem where the user is encouraged to leave the site as fast as possible in many circumstances.
 

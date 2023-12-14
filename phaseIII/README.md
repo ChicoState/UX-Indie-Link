@@ -35,8 +35,15 @@ The debrief provided extra data on participant's experiences. Results varied on 
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+From the prototype designs and the user study, the usability team discovered the fast paced environment of a user experience study. The usability team found the study to be chaotic and required a lot of planning to ensure that the study ran smoothly.
+
+Indie-Link provides a minimum viable product, the product is well structured and works well. Users noted the importance of the social aspect of Indie-Link and the site's ability to stand out compared to compatators.
+
+The site benefits from social features. This is a feature that is slightly hidden unless you know where to look. This can be improved in the future. The final feature that would need to be reworked is Indie Link's layout. The layout is obtuse and many people struggled with basic features such as commenting and the layout of the site.
+
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+The Indie-Link usability study has a small sample size (n = 6). The study had incomplete prototypes that did not work as intended. When the study was being performed, there were large technical errors that skewed the results away from the actual design of the site. When users were asked, "is there anything missing from the site?", subject overwhelmingly responded with technical issues and bugs. 
+
+In order to ensure proper analysis of the actual design of the site, the study would need to be performed again. Technical issues and the small sample size drew a significant amount of the value of the study away from the usability team's goals. 

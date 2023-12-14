@@ -35,9 +35,11 @@ The debrief provided extra data on participant's experiences. Results varied on 
 
 ## Conclusions
 
-From the prototype designs and the user study, the usability team discovered the fast paced environment of a user experience study. The usability team found the study to be chaotic and required a lot of planning to ensure that the study ran smoothly.
+From the prototype designs and the user study, the usability team discovered the fast-paced environment of a user experience study. The usability team found the study to be chaotic and required a lot of planning to ensure that the study ran smoothly.
 
-Indie-Link provides a minimum viable product, the product is well structured and works well. Users noted the importance of the social aspect of Indie-Link and the site's ability to stand out compared to compatators.
+Indie-Link provides a minimum viable product, the product is well structured and works well. Users noted the importance of the social aspect of Indie-Link and the site's ability to stand out compared to competitors.
+
+The user study's tasks and debriefs highlight the importance of visual feedback, more people than the UX team anticipated struggled with the basic layout, and the lack of a back button was a struggle for users as well. For the most part, the layout worked in a way that users were able to easily and quickly complete tasks. 
 
 The site benefits from social features. This is a feature that is slightly hidden unless you know where to look. This can be improved in the future. The final feature that would need to be reworked is Indie Link's layout. The layout is obtuse and many people struggled with basic features such as commenting and the layout of the site.
 

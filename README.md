@@ -57,11 +57,11 @@ Indie-Link is a website intended to allow players to discover new Indie Games, a
 
 - The final phase of Indie-Link provided an insight into how the site functions in a user context.
 - The UX team developed prototypes based on existing wireframes.
-- The UX team added workflows to the prototypes to ensure the site worked in a consistant way.
+- The UX team added workflows to the prototypes to ensure the site worked in a consistent way.
 - The UX team successfully developed usability test protocols
-   - Protocols were reviewed by Dr. Buffardi and the universities IRB and approved.
-- User Studies were performed to evaluate the current layout and design of the site.
-   - The user study highlighted issues with the site's layout, including a lack of clear feedback on site's buttons.
-   - Concluded user study and published results to Github.
+   - Protocols were reviewed by Dr. Buffardi and the university IRB and approved.
+- A user study was performed to evaluate the current layout and design of the site.
+- The user study highlighted issues with the site’s layout, including a lack of clear feedback on the site’s buttons.
+Concluded user study and published results to Github.
    
 [Full phase III report](phaseIII/)

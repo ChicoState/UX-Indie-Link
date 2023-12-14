@@ -6,9 +6,6 @@ Indie Link aims to provide a way for indie game players to find new games and ga
 
 ## Methods
 
-For this stage of development, the UX team performed a [cognitive walkthrough](/wireframes/) on the wireframes we have been developing. First, they had two participants each choose one of our scenarios as the basis for their walkthrough. Each participant read over their scenario and then looked at our wireframes to try to figure out if they could effectively achieve the goals of the scenario based on the wireframes. Participants then recorded their step-by-step process of going through the wireframes. 
-
-
 The UX Team employed [peer cognitive walkthroughs](../wireframes/Walkthroughs/) to accomplish diversity in findings.
 
 Peer cognitive walkthroughs are much more effective because the UX team created the scenarios, personas, and wireframes. The UX team has a deep understanding of what Indie Link is and what the intended goal of the site is, whereas a user will not have familiarity with the site.

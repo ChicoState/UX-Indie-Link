@@ -1,4 +1,4 @@
-## Indie Link Protocol!!!
+# Indie Link Protocol
 ### Introduction
 (Following informed consent…) Hello and thank you for agreeing to join a study on the usability
 of a new social media site, Indie Link! Today we will be looking over prototypes to see how you

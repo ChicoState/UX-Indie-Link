@@ -63,4 +63,5 @@ Indie-Link is a website intended to allow players to discover new Indie Games, a
 - User Studies were performed to evaluate the current layout and design of the site.
    - The user study highlighted issues with the site's layout, including a lack of clear feedback on site's buttons.
    - Concluded user study and published results to Github.
+   
 [Full phase III report](phaseIII/)
